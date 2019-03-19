@@ -1,0 +1,2 @@
+This folder contain all the inputs for the alogorithm.
+All namem_read_me.txt give information about name.txt files.
